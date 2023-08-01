@@ -1,0 +1,1151 @@
+fileFormatVersion: 2
+guid: 1beff5bd07eddff4cb093f622339a897
+timeCreated: 1606787478
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: grp_MDL_LP
+    100002: //RootNode
+    100004: ShootGoal_Chest
+    100006: ShootGoal_Clothes_Mesh_LP
+    100008: ShootGoal_Head
+    100010: ShootGoal_Head_End
+    100012: ShootGoal_Hip
+    100014: ShootGoal_L_Femur
+    100016: ShootGoal_L_Humerus
+    100018: ShootGoal_L_Index01
+    100020: ShootGoal_L_Index02
+    100022: ShootGoal_L_Index03
+    100024: ShootGoal_L_Index04
+    100026: ShootGoal_L_Instep
+    100028: ShootGoal_L_Middle01
+    100030: ShootGoal_L_Middle02
+    100032: ShootGoal_L_Middle03
+    100034: ShootGoal_L_Middle04
+    100036: ShootGoal_L_Palm
+    100038: ShootGoal_L_Pinky01
+    100040: ShootGoal_L_Pinky02
+    100042: ShootGoal_L_Pinky03
+    100044: ShootGoal_L_Pinky04
+    100046: ShootGoal_L_Radius
+    100048: ShootGoal_L_Ring01
+    100050: ShootGoal_L_Ring02
+    100052: ShootGoal_L_Ring03
+    100054: ShootGoal_L_Ring04
+    100056: ShootGoal_L_Shinbone
+    100058: ShootGoal_L_Shoulder
+    100060: ShootGoal_L_Thumb01
+    100062: ShootGoal_L_Thumb02
+    100064: ShootGoal_L_Thumb03
+    100066: ShootGoal_L_Thumb04
+    100068: ShootGoal_L_Toes
+    100070: ShootGoal_L_Toes_End
+    100072: ShootGoal_Neck
+    100074: ShootGoal_R_Femur
+    100076: ShootGoal_R_Humerus
+    100078: ShootGoal_R_Index01
+    100080: ShootGoal_R_Index02
+    100082: ShootGoal_R_Index03
+    100084: ShootGoal_R_Index04
+    100086: ShootGoal_R_Instep
+    100088: ShootGoal_R_Middle01
+    100090: ShootGoal_R_Middle02
+    100092: ShootGoal_R_Middle03
+    100094: ShootGoal_R_Middle04
+    100096: ShootGoal_R_Palm
+    100098: ShootGoal_R_Pinky01
+    100100: ShootGoal_R_Pinky02
+    100102: ShootGoal_R_Pinky03
+    100104: ShootGoal_R_Pinky04
+    100106: ShootGoal_R_Radius
+    100108: ShootGoal_R_Ring01
+    100110: ShootGoal_R_Ring02
+    100112: ShootGoal_R_Ring03
+    100114: ShootGoal_R_Ring04
+    100116: ShootGoal_R_Shinbone
+    100118: ShootGoal_R_Shoulder
+    100120: ShootGoal_R_Thumb01
+    100122: ShootGoal_R_Thumb02
+    100124: ShootGoal_R_Thumb03
+    100126: ShootGoal_R_Thumb04
+    100128: ShootGoal_R_Toes
+    100130: ShootGoal_R_Toes_End
+    100132: ShootGoal_Skin_Mesh_LP
+    100134: ShootGoal_Spine01
+    100136: ShootGoal_Spine02
+    400000: grp_MDL_LP
+    400002: //RootNode
+    400004: ShootGoal_Chest
+    400006: ShootGoal_Clothes_Mesh_LP
+    400008: ShootGoal_Head
+    400010: ShootGoal_Head_End
+    400012: ShootGoal_Hip
+    400014: ShootGoal_L_Femur
+    400016: ShootGoal_L_Humerus
+    400018: ShootGoal_L_Index01
+    400020: ShootGoal_L_Index02
+    400022: ShootGoal_L_Index03
+    400024: ShootGoal_L_Index04
+    400026: ShootGoal_L_Instep
+    400028: ShootGoal_L_Middle01
+    400030: ShootGoal_L_Middle02
+    400032: ShootGoal_L_Middle03
+    400034: ShootGoal_L_Middle04
+    400036: ShootGoal_L_Palm
+    400038: ShootGoal_L_Pinky01
+    400040: ShootGoal_L_Pinky02
+    400042: ShootGoal_L_Pinky03
+    400044: ShootGoal_L_Pinky04
+    400046: ShootGoal_L_Radius
+    400048: ShootGoal_L_Ring01
+    400050: ShootGoal_L_Ring02
+    400052: ShootGoal_L_Ring03
+    400054: ShootGoal_L_Ring04
+    400056: ShootGoal_L_Shinbone
+    400058: ShootGoal_L_Shoulder
+    400060: ShootGoal_L_Thumb01
+    400062: ShootGoal_L_Thumb02
+    400064: ShootGoal_L_Thumb03
+    400066: ShootGoal_L_Thumb04
+    400068: ShootGoal_L_Toes
+    400070: ShootGoal_L_Toes_End
+    400072: ShootGoal_Neck
+    400074: ShootGoal_R_Femur
+    400076: ShootGoal_R_Humerus
+    400078: ShootGoal_R_Index01
+    400080: ShootGoal_R_Index02
+    400082: ShootGoal_R_Index03
+    400084: ShootGoal_R_Index04
+    400086: ShootGoal_R_Instep
+    400088: ShootGoal_R_Middle01
+    400090: ShootGoal_R_Middle02
+    400092: ShootGoal_R_Middle03
+    400094: ShootGoal_R_Middle04
+    400096: ShootGoal_R_Palm
+    400098: ShootGoal_R_Pinky01
+    400100: ShootGoal_R_Pinky02
+    400102: ShootGoal_R_Pinky03
+    400104: ShootGoal_R_Pinky04
+    400106: ShootGoal_R_Radius
+    400108: ShootGoal_R_Ring01
+    400110: ShootGoal_R_Ring02
+    400112: ShootGoal_R_Ring03
+    400114: ShootGoal_R_Ring04
+    400116: ShootGoal_R_Shinbone
+    400118: ShootGoal_R_Shoulder
+    400120: ShootGoal_R_Thumb01
+    400122: ShootGoal_R_Thumb02
+    400124: ShootGoal_R_Thumb03
+    400126: ShootGoal_R_Thumb04
+    400128: ShootGoal_R_Toes
+    400130: ShootGoal_R_Toes_End
+    400132: ShootGoal_Skin_Mesh_LP
+    400134: ShootGoal_Spine01
+    400136: ShootGoal_Spine02
+    4300000: ShootGoal_Clothes_Mesh_LP
+    4300002: ShootGoal_Skin_Mesh_LP
+    7400000: v0_run_idle
+    9500000: //RootNode
+    13700000: ShootGoal_Clothes_Mesh_LP
+    13700002: ShootGoal_Skin_Mesh_LP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: v0_run_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: grp_MDL_LP
+        weight: 0
+      - path: grp_MDL_LP/ShootGoal_Clothes_Mesh_LP
+        weight: 0
+      - path: grp_MDL_LP/ShootGoal_Skin_Mesh_LP
+        weight: 0
+      - path: ShootGoal_Hip
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_L_Femur
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_L_Femur/ShootGoal_L_Shinbone
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_L_Femur/ShootGoal_L_Shinbone/ShootGoal_L_Instep
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_L_Femur/ShootGoal_L_Shinbone/ShootGoal_L_Instep/ShootGoal_L_Toes
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_L_Femur/ShootGoal_L_Shinbone/ShootGoal_L_Instep/ShootGoal_L_Toes/ShootGoal_L_Toes_End
+        weight: 0
+      - path: ShootGoal_Hip/ShootGoal_R_Femur
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_R_Femur/ShootGoal_R_Shinbone
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_R_Femur/ShootGoal_R_Shinbone/ShootGoal_R_Instep
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_R_Femur/ShootGoal_R_Shinbone/ShootGoal_R_Instep/ShootGoal_R_Toes
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_R_Femur/ShootGoal_R_Shinbone/ShootGoal_R_Instep/ShootGoal_R_Toes/ShootGoal_R_Toes_End
+        weight: 0
+      - path: ShootGoal_Hip/ShootGoal_Spine01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Index01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Index01/ShootGoal_L_Index02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Index01/ShootGoal_L_Index02/ShootGoal_L_Index03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Index01/ShootGoal_L_Index02/ShootGoal_L_Index03/ShootGoal_L_Index04
+        weight: 0
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Middle01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Middle01/ShootGoal_L_Middle02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Middle01/ShootGoal_L_Middle02/ShootGoal_L_Middle03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Middle01/ShootGoal_L_Middle02/ShootGoal_L_Middle03/ShootGoal_L_Middle04
+        weight: 0
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Pinky01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Pinky01/ShootGoal_L_Pinky02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Pinky01/ShootGoal_L_Pinky02/ShootGoal_L_Pinky03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Pinky01/ShootGoal_L_Pinky02/ShootGoal_L_Pinky03/ShootGoal_L_Pinky04
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Ring01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Ring01/ShootGoal_L_Ring02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Ring01/ShootGoal_L_Ring02/ShootGoal_L_Ring03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Ring01/ShootGoal_L_Ring02/ShootGoal_L_Ring03/ShootGoal_L_Ring04
+        weight: 0
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Thumb01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Thumb01/ShootGoal_L_Thumb02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Thumb01/ShootGoal_L_Thumb02/ShootGoal_L_Thumb03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_L_Shoulder/ShootGoal_L_Humerus/ShootGoal_L_Radius/ShootGoal_L_Palm/ShootGoal_L_Thumb01/ShootGoal_L_Thumb02/ShootGoal_L_Thumb03/ShootGoal_L_Thumb04
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_Neck
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_Neck/ShootGoal_Head
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_Neck/ShootGoal_Head/ShootGoal_Head_End
+        weight: 0
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Index01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Index01/ShootGoal_R_Index02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Index01/ShootGoal_R_Index02/ShootGoal_R_Index03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Index01/ShootGoal_R_Index02/ShootGoal_R_Index03/ShootGoal_R_Index04
+        weight: 0
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Middle01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Middle01/ShootGoal_R_Middle02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Middle01/ShootGoal_R_Middle02/ShootGoal_R_Middle03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Middle01/ShootGoal_R_Middle02/ShootGoal_R_Middle03/ShootGoal_R_Middle04
+        weight: 0
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Pinky01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Pinky01/ShootGoal_R_Pinky02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Pinky01/ShootGoal_R_Pinky02/ShootGoal_R_Pinky03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Pinky01/ShootGoal_R_Pinky02/ShootGoal_R_Pinky03/ShootGoal_R_Pinky04
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Ring01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Ring01/ShootGoal_R_Ring02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Ring01/ShootGoal_R_Ring02/ShootGoal_R_Ring03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Ring01/ShootGoal_R_Ring02/ShootGoal_R_Ring03/ShootGoal_R_Ring04
+        weight: 0
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Thumb01
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Thumb01/ShootGoal_R_Thumb02
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Thumb01/ShootGoal_R_Thumb02/ShootGoal_R_Thumb03
+        weight: 1
+      - path: ShootGoal_Hip/ShootGoal_Spine01/ShootGoal_Spine02/ShootGoal_Chest/ShootGoal_R_Shoulder/ShootGoal_R_Humerus/ShootGoal_R_Radius/ShootGoal_R_Palm/ShootGoal_R_Thumb01/ShootGoal_R_Thumb02/ShootGoal_R_Thumb03/ShootGoal_R_Thumb04
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: ShootGoal_Hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Femur
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Femur
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Shinbone
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Shinbone
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Instep
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Instep
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_Spine01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_Spine02
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Humerus
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Humerus
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Radius
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Radius
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Palm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Palm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Toes
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Toes
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Thumb02
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Thumb03
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Thumb04
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Index01
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Index02
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Index03
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Middle01
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Middle02
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Middle03
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Ring01
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Ring02
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Ring03
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Pinky02
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Pinky03
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_L_Pinky04
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Thumb02
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Thumb03
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Thumb04
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Index01
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Index02
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Index03
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Middle01
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Middle02
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Middle03
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Ring01
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Ring02
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Ring03
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Pinky02
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Pinky03
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_R_Pinky04
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShootGoal_Chest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Player_run_idle_v0(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1.1422121e-14, y: 1, z: -0.000000021855694, w: 0.00000019470717}
+      scale: {x: 2.54, y: 2.54, z: 2.54}
+    - name: grp_MDL_LP
+      parentName: Player_run_idle_v0(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 1.0048592e-14, z: 1.0048592e-14, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ShootGoal_Clothes_Mesh_LP
+      parentName: grp_MDL_LP
+      position: {x: 2.4339746e-15, y: -0.021529116, z: 0.01887574}
+      rotation: {x: 0.7071068, y: 1.0048592e-14, z: 1.0048592e-14, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ShootGoal_Skin_Mesh_LP
+      parentName: grp_MDL_LP
+      position: {x: -5.7820957e-16, y: -0.0019803054, z: 0.029162118}
+      rotation: {x: 2.019484e-28, y: 2.87e-42, z: 1.4210855e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ShootGoal_Hip
+      parentName: Player_run_idle_v0(Clone)
+      position: {x: -0, y: 0.02690406, z: 0.0008937469}
+      rotation: {x: -0.49751928, y: -0.5024697, z: -0.497518, w: -0.50246847}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: ShootGoal_Spine01
+      parentName: ShootGoal_Hip
+      position: {x: 0.000000003027916, y: -9.462237e-11, z: 1.4438228e-15}
+      rotation: {x: -0.000000029802322, y: -0.00000071525574, z: -0.9999306, w: 0.011782691}
+      scale: {x: 1.0000012, y: 1.0000013, z: 1.0000006}
+    - name: ShootGoal_Spine02
+      parentName: ShootGoal_Spine01
+      position: {x: -0.004309133, y: -0.000000002838671, z: 1.1911538e-14}
+      rotation: {x: 0.0000007301569, y: -0, z: 0.000000059604645, w: 1}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1.0000001}
+    - name: ShootGoal_Chest
+      parentName: ShootGoal_Spine02
+      position: {x: -0.004309136, y: 0.000000048446655, z: -1.15505826e-14}
+      rotation: {x: 0.0000009536743, y: -0.000000029802322, z: -0.000000014901161,
+        w: 1}
+      scale: {x: 1.000001, y: 1.0000007, z: 1.0000006}
+    - name: ShootGoal_Neck
+      parentName: ShootGoal_Chest
+      position: {x: -0.004309148, y: 0.0000000062450765, z: 0}
+      rotation: {x: 0.0000024735928, y: 0.00000037252903, z: 0.14900112, w: -0.988837}
+      scale: {x: 1.0000012, y: 1.0000017, z: 1.0000004}
+    - name: ShootGoal_Head
+      parentName: ShootGoal_Neck
+      position: {x: -0.002088487, y: 0, z: -3.609557e-16}
+      rotation: {x: -0, y: 0.000000029802319, z: 0.11924334, w: 0.9928651}
+      scale: {x: 0.99999976, y: 0.999999, z: 0.9999995}
+    - name: ShootGoal_Head_End
+      parentName: ShootGoal_Head
+      position: {x: -0.00524872, y: 0.00000004428327, z: 1.0828671e-15}
+      rotation: {x: -0.000002102056, y: -0.000000043710813, z: -0.00000028312212,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: ShootGoal_R_Shoulder
+      parentName: ShootGoal_Chest
+      position: {x: -0.0012907642, y: 0.0015644875, z: -0.000844546}
+      rotation: {x: 0.45716557, y: -0.38116008, z: 0.55121225, w: 0.58470654}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.000001}
+    - name: ShootGoal_R_Humerus
+      parentName: ShootGoal_R_Shoulder
+      position: {x: -0.004217571, y: 0.00001545751, z: 0.000011385342}
+      rotation: {x: 0.9804251, y: 0.06537122, z: 0.18298751, w: 0.031759527}
+      scale: {x: 1.0000005, y: 1.0000024, z: 1.0000043}
+    - name: ShootGoal_R_Radius
+      parentName: ShootGoal_R_Humerus
+      position: {x: -0.0077527487, y: 0.00000001513958, z: 0}
+      rotation: {x: 0.0008985197, y: 0.0019097595, z: 0.008427696, w: 0.9999623}
+      scale: {x: 1.0000013, y: 1.000001, z: 0.9999995}
+    - name: ShootGoal_R_Palm
+      parentName: ShootGoal_R_Radius
+      position: {x: -0.0067769345, y: 0.000000003027916, z: -0.000000006055832}
+      rotation: {x: -0.0015738079, y: 0.018001636, z: -0.055763043, w: 0.99828047}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000002}
+    - name: ShootGoal_R_Index01
+      parentName: ShootGoal_R_Palm
+      position: {x: -0.00000014533997, y: -0.000000024223327, z: -0.000000001513958}
+      rotation: {x: -0.1268882, y: 0.012217168, z: 0.052997302, w: 0.9904249}
+      scale: {x: 0.9999997, y: 0.9999994, z: 0.9999993}
+    - name: ShootGoal_R_Index02
+      parentName: ShootGoal_R_Index01
+      position: {x: -0.0024999715, y: 0.0000010416031, z: 0.000001404953}
+      rotation: {x: 0.0025026046, y: -0.02155968, z: -0.028301952, w: 0.9993638}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: ShootGoal_R_Index03
+      parentName: ShootGoal_R_Index02
+      position: {x: -0.0009424116, y: 0.000000024223327, z: 0}
+      rotation: {x: -0.00000030174849, y: -0.000000257045, z: -0.040970698, w: 0.99916035}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: ShootGoal_R_Index04
+      parentName: ShootGoal_R_Index03
+      position: {x: -0.00079225114, y: 0.00000001513958, z: 0}
+      rotation: {x: 0.00000082516567, y: 0.00000060309145, z: -0.16595918, w: 0.9861327}
+      scale: {x: 1.0000002, y: 1, z: 1.0000006}
+    - name: ShootGoal_R_Middle01
+      parentName: ShootGoal_R_Palm
+      position: {x: -0.00000014533997, y: -0.000000024223327, z: -0.000000001513958}
+      rotation: {x: -0.047712587, y: 0.025021754, z: 0.0582312, w: 0.99684834}
+      scale: {x: 0.9999998, y: 0.9999996, z: 0.9999993}
+    - name: ShootGoal_R_Middle02
+      parentName: ShootGoal_R_Middle01
+      position: {x: -0.0023903397, y: -0.0000014700532, z: -0.0000012073815}
+      rotation: {x: 0.002723325, y: -0.008411249, z: -0.036562875, w: 0.9992923}
+      scale: {x: 1.0000007, y: 1.000001, z: 1.0000008}
+    - name: ShootGoal_R_Middle03
+      parentName: ShootGoal_R_Middle02
+      position: {x: -0.0010340484, y: 0.000000024223327, z: -0.000000003027916}
+      rotation: {x: 0.00000014179386, y: -0.0000011296943, z: -0.040412903, w: 0.9991831}
+      scale: {x: 1.0000008, y: 1.0000011, z: 0.9999996}
+    - name: ShootGoal_R_Middle04
+      parentName: ShootGoal_R_Middle03
+      position: {x: -0.00089824037, y: -0.00000001513958, z: 0.000000001513958}
+      rotation: {x: 0.0000011909059, y: -0.00000046433047, z: -0.15156557, w: 0.98844725}
+      scale: {x: 1.0000013, y: 1.0000004, z: 1.0000004}
+    - name: ShootGoal_R_Pinky01
+      parentName: ShootGoal_R_Palm
+      position: {x: -0.00000014533997, y: -0.000000024223327, z: -0.000000001513958}
+      rotation: {x: 0.07346986, y: -0.22219457, z: 0.05097377, w: 0.97089314}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999976}
+    - name: ShootGoal_R_Pinky02
+      parentName: ShootGoal_R_Pinky01
+      position: {x: -0.0020281707, y: -0.00000082359315, z: 0.000000042390823}
+      rotation: {x: 0.0119427815, y: 0.110742494, z: -0.051762577, w: 0.9924284}
+      scale: {x: 1.0000008, y: 1.000001, z: 0.9999999}
+    - name: ShootGoal_R_Pinky03
+      parentName: ShootGoal_R_Pinky02
+      position: {x: -0.0009673086, y: 0.000000001513958, z: 0.000000045418737}
+      rotation: {x: -0.0000021671876, y: 0.000051639974, z: -0.036557067, w: 0.99933165}
+      scale: {x: 0.9999999, y: 1.0000004, z: 0.99999994}
+    - name: ShootGoal_R_Pinky04
+      parentName: ShootGoal_R_Pinky03
+      position: {x: -0.000531048, y: 0.000000027251243, z: -0.000000048446655}
+      rotation: {x: 0.0000005708205, y: -0.00000081377, z: -0.0868027, w: 0.99622554}
+      scale: {x: 1.0000005, y: 0.9999999, z: 1.0000001}
+    - name: ShootGoal_R_Ring01
+      parentName: ShootGoal_R_Palm
+      position: {x: -0.00000014533997, y: -0.000000024223327, z: -0.000000001513958}
+      rotation: {x: 0.008358669, y: -0.0777395, z: 0.07597451, w: 0.99403954}
+      scale: {x: 0.99999964, y: 0.9999996, z: 0.9999997}
+    - name: ShootGoal_R_Ring02
+      parentName: ShootGoal_R_Ring01
+      position: {x: -0.0021881175, y: -0.00000034669637, z: 0.00000082359315}
+      rotation: {x: 0.0026133067, y: -0.0042061727, z: -0.034302812, w: 0.99939924}
+      scale: {x: 1.0000014, y: 1.0000018, z: 1.0000006}
+    - name: ShootGoal_R_Ring03
+      parentName: ShootGoal_R_Ring02
+      position: {x: -0.0010538631, y: -0.000000003027916, z: 0.000000054502486}
+      rotation: {x: -0.0000008116476, y: 0.00000025890768, z: -0.018539524, w: 0.99982816}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000001}
+    - name: ShootGoal_R_Ring04
+      parentName: ShootGoal_R_Ring03
+      position: {x: -0.0007406282, y: 0.000000012111664, z: 0}
+      rotation: {x: 0.000008215629, y: -0.0000075225466, z: -0.15076336, w: 0.98856986}
+      scale: {x: 1.0000005, y: 1.0000006, z: 0.99999994}
+    - name: ShootGoal_R_Thumb01
+      parentName: ShootGoal_R_Palm
+      position: {x: -0.00000014533997, y: -0.000000024223327, z: -0.000000001513958}
+      rotation: {x: -0.6197859, y: 0.4846389, z: 0.27620643, w: 0.5519969}
+      scale: {x: 0.99999994, y: 0.9999997, z: 1}
+    - name: ShootGoal_R_Thumb02
+      parentName: ShootGoal_R_Thumb01
+      position: {x: -0.0012556873, y: -0.00000019530057, z: -0.0000001332283}
+      rotation: {x: -0.030190289, y: -0.12837565, z: -0.2123812, w: 0.9682472}
+      scale: {x: 1.0000008, y: 1.0000014, z: 1.0000004}
+    - name: ShootGoal_R_Thumb03
+      parentName: ShootGoal_R_Thumb02
+      position: {x: -0.00047305736, y: -0.000000049203635, z: 0.00000001513958}
+      rotation: {x: -0.0000033947872, y: 0.0000021457672, z: -0.04109223, w: 0.99915534}
+      scale: {x: 1.0000011, y: 1.0000007, z: 1.0000008}
+    - name: ShootGoal_R_Thumb04
+      parentName: ShootGoal_R_Thumb03
+      position: {x: -0.0010824179, y: -0.000000048446655, z: 0.000000024223327}
+      rotation: {x: 0.00000076374283, y: -0.00000044595453, z: -0.10921039, w: 0.9940187}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000007}
+    - name: ShootGoal_L_Shoulder
+      parentName: ShootGoal_Chest
+      position: {x: -0.0012907581, y: 0.0015644818, z: 0.0008445707}
+      rotation: {x: -0.45716736, y: 0.38116196, z: 0.5512112, w: 0.58470494}
+      scale: {x: 1.0000025, y: 0.9999995, z: 1.0000023}
+    - name: ShootGoal_L_Humerus
+      parentName: ShootGoal_L_Shoulder
+      position: {x: -0.0042175986, y: 0.000015463567, z: -0.000011387613}
+      rotation: {x: -0.98042476, y: -0.06537102, z: 0.1829899, w: 0.03175935}
+      scale: {x: 1.0000007, y: 1.0000012, z: 0.99999934}
+    - name: ShootGoal_L_Radius
+      parentName: ShootGoal_L_Humerus
+      position: {x: -0.007752773, y: 0.000000027251243, z: 0.000000039362906}
+      rotation: {x: -0.0008982922, y: -0.0019106811, z: 0.0084273135, w: 0.99996233}
+      scale: {x: 1.0000007, y: 1.0000012, z: 1.0000006}
+    - name: ShootGoal_L_Palm
+      parentName: ShootGoal_L_Radius
+      position: {x: -0.0067769154, y: 0.000000009083748, z: 0.000000048446655}
+      rotation: {x: -0.0010188792, y: -0.018211102, z: -0.055809725, w: 0.9982748}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000002}
+    - name: ShootGoal_L_Index01
+      parentName: ShootGoal_L_Palm
+      position: {x: 0.000000003027916, y: -0.000000012111664, z: 0}
+      rotation: {x: 0.12684257, y: -0.0121288635, z: 0.05319824, w: 0.99042106}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000002}
+    - name: ShootGoal_L_Index02
+      parentName: ShootGoal_L_Index01
+      position: {x: -0.0024999473, y: 0.000001046902, z: -0.000001404953}
+      rotation: {x: 0.00006498394, y: 0.021501388, z: -0.02833557, w: 0.9993672}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000006}
+    - name: ShootGoal_L_Index03
+      parentName: ShootGoal_L_Index02
+      position: {x: -0.0009424812, y: -0.00000001513958, z: -0.000000048446655}
+      rotation: {x: 0.00000038902348, y: -0.00001301616, z: -0.04093651, w: 0.9991617}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000005}
+    - name: ShootGoal_L_Index04
+      parentName: ShootGoal_L_Index03
+      position: {x: -0.0007922936, y: 0.000000025737286, z: 0.000000051474572}
+      rotation: {x: -0.00000052537627, y: -0.000000052210105, z: -0.16595821, w: 0.9861328}
+      scale: {x: 0.9999994, y: 0.999999, z: 1.0000001}
+    - name: ShootGoal_L_Middle01
+      parentName: ShootGoal_L_Palm
+      position: {x: -0, y: -0.0000000071913004, z: 0}
+      rotation: {x: 0.047706902, y: -0.02497162, z: 0.05829278, w: 0.9968463}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: ShootGoal_L_Middle02
+      parentName: ShootGoal_L_Middle01
+      position: {x: -0.002390361, y: -0.0000014657005, z: 0.0000012626409}
+      rotation: {x: -0.000051371735, y: 0.008522541, z: -0.036546092, w: 0.9992957}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: ShootGoal_L_Middle03
+      parentName: ShootGoal_L_Middle02
+      position: {x: -0.0010340458, y: -3.784895e-10, z: -0.000000048446655}
+      rotation: {x: -0.0000004829705, y: -0.000009111123, z: -0.040384293, w: 0.9991843}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+    - name: ShootGoal_L_Middle04
+      parentName: ShootGoal_L_Middle03
+      position: {x: -0.00089824415, y: 0.000000010597706, z: -0.000000003027916}
+      rotation: {x: -0.0000009994184, y: -0.000000014345288, z: -0.15156852, w: 0.9884468}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000005}
+    - name: ShootGoal_L_Pinky01
+      parentName: ShootGoal_L_Palm
+      position: {x: 0.000000003027916, y: -0.000000012111664, z: 0}
+      rotation: {x: -0.073469885, y: 0.22219464, z: 0.050973795, w: 0.9708931}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: ShootGoal_L_Pinky02
+      parentName: ShootGoal_L_Pinky01
+      position: {x: -0.002028195, y: -0.00000084176065, z: 0.000000001513958}
+      rotation: {x: -0.009416034, y: -0.1106174, z: -0.050859135, w: 0.9925163}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: ShootGoal_L_Pinky03
+      parentName: ShootGoal_L_Pinky02
+      position: {x: -0.0009672859, y: 0.000000004541874, z: -0.000000051474572}
+      rotation: {x: -0.0000030016513, y: -0.000016868107, z: -0.036563743, w: 0.99933136}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: ShootGoal_L_Pinky04
+      parentName: ShootGoal_L_Pinky03
+      position: {x: -0.0005310722, y: 0.000000018167496, z: -0.000000006055832}
+      rotation: {x: -0.0000004481266, y: 0.0000006779365, z: -0.0867997, w: 0.99622583}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000002}
+    - name: ShootGoal_L_Ring01
+      parentName: ShootGoal_L_Palm
+      position: {x: -0, y: -0.0000000071913004, z: 0}
+      rotation: {x: -0.008358437, y: 0.077739514, z: 0.07597442, w: 0.99403954}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: ShootGoal_L_Ring02
+      parentName: ShootGoal_L_Ring01
+      position: {x: -0.0021880902, y: -0.00000034480394, z: -0.0000009810448}
+      rotation: {x: 0.000039246854, y: 0.004250041, z: -0.03430671, w: 0.99940234}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: ShootGoal_L_Ring03
+      parentName: ShootGoal_L_Ring02
+      position: {x: -0.0010538601, y: 7.56979e-10, z: 0}
+      rotation: {x: 0.0000003395762, y: -0.00000041350717, z: -0.01853877, w: 0.99982816}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: ShootGoal_L_Ring04
+      parentName: ShootGoal_L_Ring03
+      position: {x: -0.0007406744, y: 0.000000001513958, z: 0}
+      rotation: {x: -0.000007716664, y: 0.00000772045, z: -0.1507643, w: 0.9885698}
+      scale: {x: 0.99999976, y: 0.9999993, z: 0.9999998}
+    - name: ShootGoal_L_Thumb01
+      parentName: ShootGoal_L_Palm
+      position: {x: -0, y: -0.0000000071913004, z: 0}
+      rotation: {x: 0.6197868, y: -0.48463875, z: 0.27620652, w: 0.551996}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: ShootGoal_L_Thumb02
+      parentName: ShootGoal_L_Thumb01
+      position: {x: -0.0012556873, y: -0.00000016804934, z: 0.00000012111664}
+      rotation: {x: 0.03168331, y: 0.12629494, z: -0.21301682, w: 0.96833336}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000007}
+    - name: ShootGoal_L_Thumb03
+      parentName: ShootGoal_L_Thumb02
+      position: {x: -0.00047308308, y: -0.000000025737286, z: -0.000000025737286}
+      rotation: {x: 0.0000033258866, y: -0.00000081956375, z: -0.04109191, w: 0.9991554}
+      scale: {x: 0.99999964, y: 1.0000004, z: 1.0000002}
+    - name: ShootGoal_L_Thumb04
+      parentName: ShootGoal_L_Thumb03
+      position: {x: -0.0010823952, y: 0.000000027251243, z: -0.000000001513958}
+      rotation: {x: -0.00000035950956, y: 0.000000463132, z: -0.10921143, w: 0.9940186}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.99999994}
+    - name: ShootGoal_L_Femur
+      parentName: ShootGoal_Hip
+      position: {x: -0.0025255969, y: 0.000019624018, z: 0.0024535807}
+      rotation: {x: 0.002457857, y: 0.06999348, z: -0.009167253, w: 0.9975024}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: ShootGoal_L_Shinbone
+      parentName: ShootGoal_L_Femur
+      position: {x: -0.010679439, y: 0.00000004996061, z: 1.8924474e-10}
+      rotation: {x: 0.0000000372529, y: -0.000000014901159, z: -0.030622846, w: 0.99953103}
+      scale: {x: 1.0000004, y: 1, z: 1.0000007}
+    - name: ShootGoal_L_Instep
+      parentName: ShootGoal_L_Shinbone
+      position: {x: -0.01123473, y: 0.0000018440008, z: 0.0000008720398}
+      rotation: {x: -0.037840635, y: -0.058933914, z: 0.56829625, w: 0.8198379}
+      scale: {x: 0.99999976, y: 0.9999993, z: 1.0000004}
+    - name: ShootGoal_L_Toes
+      parentName: ShootGoal_L_Instep
+      position: {x: -0.0044468693, y: 0.0000000018924475, z: 2.8386712e-10}
+      rotation: {x: 0.018290114, y: 0.0061084023, z: 0.24637707, w: 0.9689823}
+      scale: {x: 1.0000012, y: 1.0000015, z: 1.0000006}
+    - name: ShootGoal_L_Toes_End
+      parentName: ShootGoal_L_Toes
+      position: {x: -0.00198026, y: -7.56979e-10, z: 0}
+      rotation: {x: 0.00000009126958, y: 0.0000000027939668, z: -0.00000003966123,
+        w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000004}
+    - name: ShootGoal_R_Femur
+      parentName: ShootGoal_Hip
+      position: {x: -0.0025255952, y: 0.000019620895, z: -0.0024536538}
+      rotation: {x: -0.0024577377, y: -0.06999388, z: -0.009170054, w: 0.9975023}
+      scale: {x: 1.000001, y: 1.0000012, z: 1.000001}
+    - name: ShootGoal_R_Shinbone
+      parentName: ShootGoal_R_Femur
+      position: {x: -0.010679434, y: -1.8924474e-10, z: 0}
+      rotation: {x: -0.000000042375174, y: 0.0000000074505797, z: -0.030621469, w: 0.9995311}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.0000007}
+    - name: ShootGoal_R_Instep
+      parentName: ShootGoal_R_Shinbone
+      position: {x: -0.011234717, y: 0.0000018894195, z: -0.0000008956954}
+      rotation: {x: 0.03784087, y: 0.058934327, z: 0.56829745, w: 0.81983703}
+      scale: {x: 1, y: 1.0000006, z: 0.9999999}
+    - name: ShootGoal_R_Toes
+      parentName: ShootGoal_R_Instep
+      position: {x: -0.0044469186, y: -0.000000022898615, z: -5.6773425e-10}
+      rotation: {x: 0.02155153, y: 0.0010643749, z: 0.28639156, w: 0.95786965}
+      scale: {x: 1, y: 1.0000012, z: 1.0000002}
+    - name: ShootGoal_R_Toes_End
+      parentName: ShootGoal_R_Toes
+      position: {x: -0.0019802055, y: 4.7311186e-11, z: -1.8924474e-10}
+      rotation: {x: 0.00000007450582, y: 4.6566034e-10, z: -0.000000013038517, w: 1}
+      scale: {x: 1, y: 0.99999976, z: 0.99999994}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
